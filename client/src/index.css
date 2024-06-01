@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+div {
+    padding: 10px;
+}
+
+select,
+input {
+    border-width: 2px;
+    border-color: rgb(239, 195, 137);
+}
